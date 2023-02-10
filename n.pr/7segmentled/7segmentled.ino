@@ -40,8 +40,7 @@ switch(counter)
   case 1:  func();
             digitalWrite(8,HIGH);
             delay(600);
-            
-            break;
+             break;
 
   case 2: 
   func();
@@ -51,26 +50,21 @@ switch(counter)
   digitalWrite(5,HIGH);
   digitalWrite(8,HIGH);
    delay(600);
-            
-            break;
+   break;
 
   case 3:
   func();
   digitalWrite(7,HIGH);
   digitalWrite(4,HIGH);
    delay(600);
-           
-            
-            break;
+   break;
 
   case 4:
   func();
   digitalWrite(7,HIGH);
   digitalWrite(6,HIGH);
    delay(600);
-            
-            
-            break;
+   break;
 
   case 5:
   func();
@@ -78,26 +72,21 @@ switch(counter)
   digitalWrite(6,HIGH);
   digitalWrite(5,HIGH);
    delay(600);
-            func2();
-            
-            break;
+   func2();
+   break;
 
   case 6:
   func();
   digitalWrite(6,HIGH);
   digitalWrite(3,HIGH);
    delay(600);
-           
-            
-            break;
+   break;
 
   case 7:
   func();
   digitalWrite(3,HIGH);
    delay(600);
-           
-            
-            break;
+    break;
 
   case 8:
   func();
@@ -105,38 +94,29 @@ switch(counter)
   digitalWrite(6,HIGH);
   digitalWrite(5,HIGH);
    delay(600);
-         
-            
-            break;
+   break;
+  
   case 9:
   func();
-   delay(600);
-          
-            
-            break;
+  delay(600);
+  break;
 
   case 10:
   func();
   digitalWrite(6,HIGH);
    delay(600);
-           
-            
-            break;
+   break;
 
   case 11:
   func();
   digitalWrite(5,HIGH);
    delay(600);
-        
-            
-            break;
+   break;
 
   case 12:
   func();
   delay(600);
-        
-            
-            break;
+  break;
 
   case 13:
   func();
@@ -144,51 +124,41 @@ switch(counter)
    digitalWrite(3,HIGH);
    digitalWrite(4,HIGH);
    delay(600);
-        
-            
-            break;
+   break;
 
   case 14:
   func();
-     digitalWrite(8,HIGH);
+  digitalWrite(8,HIGH);
   delay(600);
-          
-            
-            break;
+  break;
 
   case 15:
   func();
     digitalWrite(3,HIGH);
     digitalWrite(4,HIGH);
    delay(600);
-            
-            
-            break;
+   break;
+  
   case 16:
   func();
     digitalWrite(3,HIGH);
     digitalWrite(4,HIGH);
     digitalWrite(5,HIGH);
    delay(600);
-            
-            
-            break;
+   break;
 
   case 17:
   func();
   digitalWrite(3,HIGH);
    delay(600);
-            
-            
-            break;
+   break;
+  
   case 18:
   func();
   digitalWrite(2,HIGH);
   digitalWrite(5,HIGH);
    delay(600);
-     
-            
-            break;
+   break;
   }
   tst=1;
 }
