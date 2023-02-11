@@ -5,6 +5,7 @@ Arduino Uno
 Resistors		220 Ohms (i.e roughly 5V/15m), 15m Amphere is the current required for turning on the led.
 7Segment LED Display (Common Anode Display)
 BreadBoard
+Button
 
 Theory:
 The Embedded System is the Combination of HARDWARE and SOFTWARE. MC/MP are examples of the embedded system.
