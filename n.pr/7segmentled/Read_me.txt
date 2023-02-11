@@ -1,4 +1,4 @@
-This folder contains 7Segment Led Display code (Arduino Programming) and output video with neccessary figures.
+This folder contains 7Segment Led Display code which takes input for every button count and displays output(Arduino Programming), and output video with neccessary figures.
 
 Components Used:
 Arduino Uno
